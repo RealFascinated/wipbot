@@ -1,5 +1,7 @@
 # WIPBot for Beat Saber streamers
 
+Go to the new repository: https://github.com/Danielduel/wipbot
+
 ## NOTE: requires BeatSaberPlus or CatCore
 
 Make sure your channel moderation settings allow posting links in chat, otherwise only VIPs and above can post wip download links. Request codes obtained from the dedicated website can always be used but it might not be reliably online 24/7.
